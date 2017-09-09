@@ -2,7 +2,8 @@
 **Student:** I’m feeling very overwhelmed by all of the material in this program. It seems like every time I learn something new, I forget how to do everything else from before that. Right now I can’t even seem to figure out how to finish the first project. It’s not supposed to be this hard, is it? What do I do?
 
 **Response:**  Sorry to hear that you're feeling very overwhelmed by the material. I as a mentor will try to help you out.
-As you have mentioned that you keep forgetting concepts as you move forward in the course. To overcome this issue, I would like to get some details. Are you making short notes of the course content? Did you face this issue while working on other projects too?
+
+As you have mentioned that you keep forgetting concepts as you move forward in the course. To overcome this issue, Can I have some details? Are you making short notes of the course content? Did you face this issue while working on other projects too?
 
 I encourage you to try a general rule like 5:1 rule. Consider dividing the number of hours that you're invest in 6 parts. Invest 5 parts of it in learning new things and 1 part of that time in revising the concepts i.e, if you are investing 3 hours/day then consider investing 2.5 hours on new stuff and 0.5 hour to revise the content. I hope it will solve the issue. 
 Please let me know, what all rubric points have you implemented? Give  some details about which part of the project is creating issues for you.
@@ -13,7 +14,7 @@ Please let me know, what all rubric points have you implemented? Give  some deta
 **Response:** 
 Hi,
 
-I am glad that you asked this question. There is a minor difference in both the things. First of all, consider telling me what all do you understand by mean and average?
+I am glad that you asked this question. There is a minor difference in both the things. I will surely guide you but before that consider telling me what all do you understand by *mean* and *average*?
 
 In general, we use mean and average interchangeably. Average is a term which people more often used in an informal manner. Average can also  be used to denote [median](https://en.wikipedia.org/wiki/Median
 )(If mentioned specifically otherwise it's just the same as mean).  On the other hand, Mean is used in a formal document like statistical reports  & documentation. Both the terms are used for estimating the central tendency of a dataset/values.
@@ -44,7 +45,7 @@ Hi @student1,
 I am currently mentoring the students. So, I suppose I am eligible for answering this. 
 
 I feel it depends on your confidence level & quality of work that you have done in past in that particular tech-stack. 
-I totally understand your situation if your friend asks a question to which you don't have the answer. In that situation, I recommend never give them an incorrect answer if you're not sure. First, try to understand the problem they are facing then if you don't know the exact answer but have some idea. You can guide them in the right direction by sharing some Q&As on stackoverflow etc. You can honestly tell them that you need to check some resources/notes to get more clarity. Confirm them that you'll surely get back to them as soon as you can. 
+I totally understand your situation if your friend asks a question to which you don't know the answer. If you're not sure, I recommend not to give them an answer just by guessing. First, try to understand the problem they are facing then if you don't know the exact answer but have some idea. You can guide them in the right direction by sharing some Q&As on stackoverflow etc. You can honestly tell them that you need to check some resources/notes to get more clarity. Confirm them that you'll surely get back to them as soon as you can. 
 
 I am able to tell this because This is a situation which many among mentors often face. It somtimes become challenging to guide students in realtime but this helps us to revise/learn concepts in a couple of minutes. Mentoring a friend will certainly help you & your friend to get better. 
 
