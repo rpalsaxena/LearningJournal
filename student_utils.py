@@ -26,7 +26,7 @@ def reduce_dimension_ndc(df, ndc_df):
         ls.append(med_dict[i])
     ndc_df.insert(1, column="generic_drug_name", value = np.array(ls))
     
-    df = df.merge(ndc_df.iloc[:, 0:2], left_on='ndc_code', right_on='NDC_Code').drop('NDC_Code', axis=1)
+    df = df.merge(ndc_df.iloc[:, 0:2], left_on='ndc_code', right_on='NDC_Code').drop(['NDC_Code', 'ndc_code'], axis=1)
     
     return df
 
@@ -138,6 +138,17 @@ def get_student_binary_prediction(df, col,col_dev):
     return:
         student_binary_prediction: pandas dataframe converting input to flattened numpy array and binary labels
     '''
+    student_binary_prediction = df[col].apply(lambda x: 1 if x >=5.0 else 0).to_numpy()
+    return student_binary_prediction
+
+"""
+def get_student_binary_prediction(df, col,col_dev):
+    '''
+    df: pandas dataframe prediction output dataframe
+    col: str,  probability mean prediction field
+    return:
+        student_binary_prediction: pandas dataframe converting input to flattened numpy array and binary labels
+    '''
     student_binary_prediction = []
     
     actual_arr = df.iloc[:,1].astype(float).to_numpy()
@@ -153,3 +164,4 @@ def get_student_binary_prediction(df, col,col_dev):
         
     np.array(student_binary_prediction, dtype=bool)
     return student_binary_prediction
+"""
